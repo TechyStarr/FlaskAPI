@@ -1,0 +1,11 @@
+instructions for APIFllask
+
+# cd into working directory
+# create virtual env using "py -3 -m venv flaskapi"
+# activate virtual using venv-name/scripts/activate
+# install APIflask "pip install apiflask"
+# requirements using "pip freeze > requirement.txt"
+# install .env using "pip install python-dotenv"
+# install sqlalchemy using "pip install sqlalchemy"
+# run python db.py to create database
+# run "flask run" to run server
